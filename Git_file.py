@@ -85,3 +85,4 @@ book_2 = book_1 + 2
 book_3 = (book_1 + book_2) / 2
 total_books = book_1 + book_2 + book_3
 print(f'Якщо купити по 1 примірнику, всі книги будуть коштувати {total_books} грн')
+
